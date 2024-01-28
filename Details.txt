@@ -1,0 +1,118 @@
+
+Topics:
+
+  Requirements:
+    VsCode
+    Account in Github
+
+  Note: Working on a old task/project just open the existing folder 
+
+  Github & Git:
+
+    Github: Online platform to store codes
+
+      Profile Information using Readme.md
+
+    Git:
+      Tool used to store codes in timely manner using commit history
+
+      Using this tool, we will store the codes in Github, Gtlab, Bitbucket
+
+    Source Control Management:
+      Cloud File System to keep our codes safe and make available to others
+
+      SCM Architecture:
+
+                        repository
+                            |
+                ------------------------------
+                |        Push/Pull           |
+              Local         <->            Remote
+        Local Computer                  (Cloud Storage)
+
+
+    Tool for controlling the version
+
+    Creating a new repository:
+
+      VsCode:
+        Everytime, When You start working on something,
+
+        1. Classify the work with a new folder
+        2. Open the folder from a fresh VsCode Window
+        3. Start working
+
+    2. VsCode
+        
+        Install Extension - Github Pull Requests & Issues
+
+        Create/Intialize a Repository - Click on Source Control & Initialize
+        Adding files add symbol
+        Removing files minus symbol
+        Commit by entering msg
+          git config --global user.name <your-username>
+          git config --global user.email <your-email>
+    
+    3. Mannual Upload
+      Create new repo in github.com 
+      Find the link for upload existing file
+
+      Select the needed files
+      Or drag and upload the whole folder
+    
+
+    Github -> Storage for all Your codebase, 
+              which uses Git for some actions and operations
+      Repository
+        - Storage for an application that stores all Your codes
+    
+    Push / Pull:
+      Push:  Local Commits to Remote
+
+      Pull: Remote Commits to Local
+
+    Git Bash / CMD Line
+
+      1. CMD Line
+        Create/Intialize a Repository - git init
+
+        Status -> git status
+
+        Adding/Staging Files to the Repo: 
+          git add <files/file>
+          Single File:
+            git add <file-name>
+
+          Add All files:
+            git add .
+        
+        Removing Staged Files:
+          git rm --cached <file-name>
+
+          git rm -r --cached .
+
+        Commit: timebased version of Your development
+          whatever the staged files You can put it into the git commit
+
+          git commit -m "all files are added"
+        
+
+      
+    
+  
+  
+  Logics & Tricks:
+
+    Iteration Debugging
+
+    two iteration variables
+
+    Recursion
+      
+    Mapping Logics:
+
+      using a object to solve the problem
+
+Next Session:
+
+  Local Setup for VS Settings
