@@ -71,6 +71,13 @@ Topics:
 
       Pull: Remote Commits to Local
 
+Task:
+  Input-Output:
+    Publish You codes to a repo named **Codekata-Input-Output**
+
+  Aboslute Beginner:
+    Publish You codes to a repo named **Codekata-Absolute-Beginner**
+
 Next Session:
   Git Bash / CMD Line
 
