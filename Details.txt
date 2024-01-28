@@ -65,42 +65,40 @@ Topics:
               which uses Git for some actions and operations
       Repository
         - Storage for an application that stores all Your codes
-    
+
     Push / Pull:
       Push:  Local Commits to Remote
 
       Pull: Remote Commits to Local
 
-    Git Bash / CMD Line
+Next Session:
+  Git Bash / CMD Line
 
-      1. CMD Line
-        Create/Intialize a Repository - git init
+    1. CMD Line
+      Create/Intialize a Repository - git init
 
-        Status -> git status
+      Status -> git status
 
-        Adding/Staging Files to the Repo: 
-          git add <files/file>
-          Single File:
-            git add <file-name>
+      Adding/Staging Files to the Repo: 
+        git add <files/file>
+        Single File:
+          git add <file-name>
 
-          Add All files:
-            git add .
-        
-        Removing Staged Files:
-          git rm --cached <file-name>
-
-          git rm -r --cached .
-
-        Commit: timebased version of Your development
-          whatever the staged files You can put it into the git commit
-
-          git commit -m "all files are added"
-        
-
+        Add All files:
+          git add .
       
-    
-  
-  
+      Removing Staged Files:
+        git rm --cached <file-name>
+
+        git rm -r --cached .
+
+      Commit: timebased version of Your development
+        whatever the staged files You can put it into the git commit
+
+        git commit -m "all files are added"
+        
+
+
   Logics & Tricks:
 
     Iteration Debugging
