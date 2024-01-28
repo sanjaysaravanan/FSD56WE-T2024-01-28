@@ -78,6 +78,9 @@ Task:
   Aboslute Beginner:
     Publish You codes to a repo named **Codekata-Absolute-Beginner**
 
+  Try solving most of the problems from 
+    Input-Output, Absolute-Beginner, & Basics
+
 Next Session:
   Git Bash / CMD Line
 
@@ -103,8 +106,6 @@ Next Session:
         whatever the staged files You can put it into the git commit
 
         git commit -m "all files are added"
-        
-
 
   Logics & Tricks:
 
@@ -117,7 +118,5 @@ Next Session:
     Mapping Logics:
 
       using a object to solve the problem
-
-Next Session:
 
   Local Setup for VS Settings
